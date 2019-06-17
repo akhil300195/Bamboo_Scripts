@@ -1,0 +1,85 @@
+----- Running Admin Script Results -----
+__main__.bambooLabTestCases.test_1_homepage_page: 17.408
+__main__.bambooLabTestCases.test_2_login_page: 32.642
+__main__.bambooLabTestCases.test_3_open_build_page: 28.567
+----------------------------------------------------------------------
+Ran 3 tests in 80.760s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 20.834
+__main__.bambooLabTestCases.test_2_login_page: 31.680
+__main__.bambooLabTestCases.test_3_open_build_page: 34.747
+----------------------------------------------------------------------
+Ran 3 tests in 89.378s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 32.539
+__main__.bambooLabTestCases.test_2_login_page: 45.572
+__main__.bambooLabTestCases.test_3_open_build_page: 48.044
+----------------------------------------------------------------------
+Ran 3 tests in 128.292s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 46.643
+__main__.bambooLabTestCases.test_2_login_page: 60.741
+__main__.bambooLabTestCases.test_3_open_build_page: 46.381
+----------------------------------------------------------------------
+Ran 3 tests in 155.921s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 41.350
+__main__.bambooLabTestCases.test_2_login_page: 54.313
+__main__.bambooLabTestCases.test_3_open_build_page: 50.422
+----------------------------------------------------------------------
+Ran 3 tests in 148.256s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 44.522
+__main__.bambooLabTestCases.test_2_login_page: 53.725
+__main__.bambooLabTestCases.test_3_open_build_page: 51.625
+----------------------------------------------------------------------
+Ran 3 tests in 151.994s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 40.459
+__main__.bambooLabTestCases.test_2_login_page: 60.097
+^[[B^[[B__main__.bambooLabTestCases.test_3_open_build_page: 46.490
+----------------------------------------------------------------------
+Ran 3 tests in 149.170s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 53.429
+__main__.bambooLabTestCases.test_2_login_page: 57.217
+__main__.bambooLabTestCases.test_3_open_build_page: 48.411
+----------------------------------------------------------------------
+Ran 3 tests in 161.212s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 55.626
+__main__.bambooLabTestCases.test_2_login_page: 62.969
+__main__.bambooLabTestCases.test_3_open_build_page: 40.639
+----------------------------------------------------------------------
+Ran 3 tests in 161.347s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 42.629
+__main__.bambooLabTestCases.test_2_login_page: 55.904
+__main__.bambooLabTestCases.test_3_open_build_page: 49.561
+----------------------------------------------------------------------
+Ran 3 tests in 150.219s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 53.192
+__main__.bambooLabTestCases.test_2_login_page: 57.608
+__main__.bambooLabTestCases.test_3_open_build_page: 52.581
+----------------------------------------------------------------------
+Ran 3 tests in 165.521s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 43.241
+4__main__.bambooLabTestCases.test_2_login_page: 63.557
+__main__.bambooLabTestCases.test_3_open_build_page: 57.908
+----------------------------------------------------------------------
+Ran 3 tests in 166.812s
+
+

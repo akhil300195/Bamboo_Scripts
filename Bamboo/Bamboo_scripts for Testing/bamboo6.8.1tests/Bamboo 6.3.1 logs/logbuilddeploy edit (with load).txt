@@ -1,0 +1,100 @@
+
+hyd-chinthaa-m:bamboo-selenium-user-experience-test chinthaa$ . scriptRunner.sh bamboo_build_deploy_admin.py
+----- Running Admin Script Results -----
+__main__.bambooLabTestCases.test_1_homepage_page: 39.526
+__main__.bambooLabTestCases.test_2_login_page: 18.156
+__main__.bambooLabTestCases.test_3_open_build_edit_page: 13.832
+__main__.bambooLabTestCases.test_4_open_deployment_edit_page: 9.741
+----------------------------------------------------------------------
+Ran 4 tests in 83.493s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 49.445
+__main__.bambooLabTestCases.test_2_login_page: 26.605
+__main__.bambooLabTestCases.test_3_open_build_edit_page: 32.885
+__main__.bambooLabTestCases.test_4_open_deployment_edit_page: 29.894
+----------------------------------------------------------------------
+Ran 4 tests in 140.997s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 104.226
+__main__.bambooLabTestCases.test_2_login_page: 76.796
+__main__.bambooLabTestCases.test_3_open_build_edit_page: 44.641
+__main__.bambooLabTestCases.test_4_open_deployment_edit_page: 35.251
+----------------------------------------------------------------------
+Ran 4 tests in 263.150s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 104.225
+__main__.bambooLabTestCases.test_2_login_page: 77.283
+__main__.bambooLabTestCases.test_3_open_build_edit_page: 56.773
+__main__.bambooLabTestCases.test_4_open_deployment_edit_page: 32.808
+----------------------------------------------------------------------
+Ran 4 tests in 273.227s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 106.961
+__main__.bambooLabTestCases.test_2_login_page: 77.543
+__main__.bambooLabTestCases.test_3_open_build_edit_page: 48.770
+__main__.bambooLabTestCases.test_4_open_deployment_edit_page: 36.723
+----------------------------------------------------------------------
+Ran 4 tests in 272.373s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 109.239
+__main__.bambooLabTestCases.test_2_login_page: 76.643
+__main__.bambooLabTestCases.test_3_open_build_edit_page: 60.596
+__main__.bambooLabTestCases.test_4_open_deployment_edit_page: 29.676
+----------------------------------------------------------------------
+Ran 4 tests in 278.309s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 104.687
+__main__.bambooLabTestCases.test_2_login_page: 76.628
+__main__.bambooLabTestCases.test_3_open_build_edit_page: 45.093
+__main__.bambooLabTestCases.test_4_open_deployment_edit_page: 31.922
+----------------------------------------------------------------------
+Ran 4 tests in 260.556s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 105.183
+__main__.bambooLabTestCases.test_2_login_page: 83.863
+__main__.bambooLabTestCases.test_3_open_build_edit_page: 47.987
+__main__.bambooLabTestCases.test_4_open_deployment_edit_page: 32.005
+----------------------------------------------------------------------
+Ran 4 tests in 271.248s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 104.237
+__main__.bambooLabTestCases.test_2_login_page: 79.156
+__main__.bambooLabTestCases.test_3_open_build_edit_page: 47.425
+__main__.bambooLabTestCases.test_4_open_deployment_edit_page: 29.767
+----------------------------------------------------------------------
+Ran 4 tests in 262.760s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 109.254
+__main__.bambooLabTestCases.test_2_login_page: 79.061
+__main__.bambooLabTestCases.test_3_open_build_edit_page: 51.084
+__main__.bambooLabTestCases.test_4_open_deployment_edit_page: 32.178
+----------------------------------------------------------------------
+Ran 4 tests in 273.839s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 110.681
+__main__.bambooLabTestCases.test_2_login_page: 79.343
+__main__.bambooLabTestCases.test_3_open_build_edit_page: 43.491
+__main__.bambooLabTestCases.test_4_open_deployment_edit_page: 33.439
+----------------------------------------------------------------------
+Ran 4 tests in 269.137s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 105.767
+__main__.bambooLabTestCases.test_2_login_page: 80.524
+__main__.bambooLabTestCases.test_3_open_build_edit_page: 44.831
+__main__.bambooLabTestCases.test_4_open_deployment_edit_page: 31.640
+----------------------------------------------------------------------
+Ran 4 tests in 264.936s
+
+OK
+---- Finished Running Non Admin Script ----

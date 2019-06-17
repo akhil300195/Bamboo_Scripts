@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bamboo-specs-1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bamboo-specs/target/bamboo-specs-1.0.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,192 @@
+--
+__main__.bambooLabTestCases.test_1_homepage_page: 40.511
+__main__.bambooLabTestCases.test_2_login_page: 18.341
+All Deployments Page loading done..!!
+__main__.bambooLabTestCases.test_3_all_deployments_load_page: 76.419
+----------------------------------------------------------------------
+Ran 3 tests in 137.485s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 42.191
+__main__.bambooLabTestCases.test_2_login_page: 19.484
+All Deployments Page loading done..!!
+__main__.bambooLabTestCases.test_3_all_deployments_load_page: 78.487
+----------------------------------------------------------------------
+Ran 3 tests in 142.364s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 38.756
+__main__.bambooLabTestCases.test_2_login_page: 27.927
+All Deployments Page loading done..!!
+__main__.bambooLabTestCases.test_3_all_deployments_load_page: 77.691
+----------------------------------------------------------------------
+Ran 3 tests in 146.636s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 42.627
+__main__.bambooLabTestCases.test_2_login_page: 17.490
+All Deployments Page loading done..!!
+__main__.bambooLabTestCases.test_3_all_deployments_load_page: 76.450
+----------------------------------------------------------------------
+Ran 3 tests in 138.773s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 42.783
+__main__.bambooLabTestCases.test_2_login_page: 18.413
+All Deployments Page loading done..!!
+__main__.bambooLabTestCases.test_3_all_deployments_load_page: 77.066
+----------------------------------------------------------------------
+Ran 3 tests in 140.503s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 39.848
+__main__.bambooLabTestCases.test_2_login_page: 314.451
+__main__.bambooLabTestCases.test_3_all_deployments_load_page: 300.003
+======================================================================
+ERROR: test_2_login_page (__main__.bambooLabTestCases)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "bambooAllDeploymentsAdmin_v1.py", line 39, in test_2_login_page
+    loginButton.click()
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/remote/webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/remote/webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout
+  (Session info: chrome=75.0.3770.80)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.3 x86_64)
+
+
+======================================================================
+ERROR: test_3_all_deployments_load_page (__main__.bambooLabTestCases)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "bambooAllDeploymentsAdmin_v1.py", line 46, in test_3_all_deployments_load_page
+    linkDeploy = self.driver.find_element_by_xpath("//*[@id=\"system_deploy_menu\"]/a")
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout
+  (Session info: chrome=75.0.3770.80)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Mac OS X 10.14.3 x86_64)
+
+
+----------------------------------------------------------------------
+Ran 3 tests in 656.659s
+
+FAILED (errors=2)
+__main__.bambooLabTestCases.test_1_homepage_page: 42.009
+__main__.bambooLabTestCases.test_2_login_page: 28.767
+All Deployments Page loading done..!!
+__main__.bambooLabTestCases.test_3_all_deployments_load_page: 80.262
+----------------------------------------------------------------------
+Ran 3 tests in 153.275s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 39.988
+__main__.bambooLabTestCases.test_2_login_page: 21.236
+All Deployments Page loading done..!!
+__main__.bambooLabTestCases.test_3_all_deployments_load_page: 74.359
+----------------------------------------------------------------------
+Ran 3 tests in 137.812s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 41.467
+__main__.bambooLabTestCases.test_2_login_page: 18.849
+All Deployments Page loading done..!!
+__main__.bambooLabTestCases.test_3_all_deployments_load_page: 78.595
+----------------------------------------------------------------------
+Ran 3 tests in 141.111s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 40.197
+__main__.bambooLabTestCases.test_2_login_page: 27.725
+All Deployments Page loading done..!!
+__main__.bambooLabTestCases.test_3_all_deployments_load_page: 90.114
+----------------------------------------------------------------------
+Ran 3 tests in 160.281s
+
+OK
+---- Finished Running Non Admin Script ----
+hyd-chinthaa-m:bamboo-selenium-user-experience-test chinthaa$ . scriptRunner.sh bambooAllDeploymentsAdmin_v1.py 
+----- Running Admin Script Results -----
+__main__.bambooLabTestCases.test_1_homepage_page: 40.416
+__main__.bambooLabTestCases.test_2_login_page: 30.488
+All Deployments Page loading done..!!
+__main__.bambooLabTestCases.test_3_all_deployments_load_page: 86.673
+----------------------------------------------------------------------
+Ran 3 tests in 159.827s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 39.504
+__main__.bambooLabTestCases.test_2_login_page: 17.950
+All Deployments Page loading done..!!
+__main__.bambooLabTestCases.test_3_all_deployments_load_page: 63.869
+----------------------------------------------------------------------
+Ran 3 tests in 123.559s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 40.387
+__main__.bambooLabTestCases.test_2_login_page: 18.415
+All Deployments Page loading done..!!
+__main__.bambooLabTestCases.test_3_all_deployments_load_page: 66.133
+----------------------------------------------------------------------
+Ran 3 tests in 127.111s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 39.939
+__main__.bambooLabTestCases.test_2_login_page: 27.409
+All Deployments Page loading done..!!
+__main__.bambooLabTestCases.test_3_all_deployments_load_page: 87.124
+----------------------------------------------------------------------
+Ran 3 tests in 156.686s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 39.622
+__main__.bambooLabTestCases.test_2_login_page: 27.762
+All Deployments Page loading done..!!
+__main__.bambooLabTestCases.test_3_all_deployments_load_page: 78.054
+----------------------------------------------------------------------
+Ran 3 tests in 147.651s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 40.215
+__main__.bambooLabTestCases.test_2_login_page: 28.045
+All Deployments Page loading done..!!
+__main__.bambooLabTestCases.test_3_all_deployments_load_page: 87.951
+----------------------------------------------------------------------
+Ran 3 tests in 158.408s
+
+OK
+__main__.bambooLabTestCases.test_1_homepage_page: 38.807
+__main__.bambooLabTestCases.test_2_login_page: 27.496
+All Deployments Page loading done..!!
+__main__.bambooLabTestCases.test_3_all_deployments_load_page: 19.102
+======================================================================
+FAIL: test_3_all_deployments_load_page (__main__.bambooLabTestCases)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "bambooAllDeploymentsAdmin_v1.py", line 60, in test_3_all_deployments_load_page
+    assert bodyVerifyText in self.driver.find_element_by_tag_name("BODY").text, "Body Should Contain {}".format(bodyVerifyText)
+AssertionError: Body Should Contain MAL5_Deploy9
+
+----------------------------------------------------------------------
+Ran 3 tests in 87.667s
+
+FAILED (failures=1)
+__main__.bambooLabTestCases.test_1_homepage_page: 41.838
+__main__.bambooLabTestCases.test_2_login_page: 28.089
+All Deployments Page loading done..!!
+__main__.bambooLabTestCases.test_3_all_deployments_load_page: 75.066
+----------------------------------------------------------------------
+Ran 3 tests in 147.190s
+

@@ -1,0 +1,10 @@
+ 172 GO         -    GHS - Orchestartion
+ 145 BIOP       -    BI Open Platform
+ 128 DMGINTEL   -    Intelligence
+  92 QUOTE      -    Front Office Edge - Quote
+  77 DSIA       -    Data Services - InfoIQ Admin
+  69 TXTCON     -    Text Connect
+  64 CLOUD      -    Cloud Platform
+  64 CH2016     -    CDK Hackathon
+  61 DSA        -    DS ALM
+  60 DMGDT      -    DMG - Design Tool
